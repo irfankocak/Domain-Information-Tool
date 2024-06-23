@@ -13,7 +13,7 @@ go run main.go 2. Using the Application When you run the application, a menu wil
 
 Viewing the Menu You will see the following menu options:
 
-[img]https://i.hizliresim.com/wx3vzkt.png[/img]
+<img src="https://i.hizliresim.com/wx3vzkt.png" >
 
 === Domain Information Tool ===
 
